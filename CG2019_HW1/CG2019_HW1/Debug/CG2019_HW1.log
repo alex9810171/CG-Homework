@@ -1,0 +1,22 @@
+﻿  CG2019_HW1.cpp
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\hitable_list.h(22): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\drand48.h(17): warning C4244: '正在初始化': 將 'unsigned __int64' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\material.h(22): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\material.h(40): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\material.h(96): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\sphere.h(22): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\sphere.h(27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\sphere.h(35): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(43): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(44): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(44): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(53): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(54): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(55): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(59): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(63): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(63): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(66): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(66): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_hw1\cg2019_hw1\cg2019_hw1.cpp(69): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  CG2019_HW1.vcxproj -> D:\user\source\repos\CG2019_HW1\Debug\CG2019_HW1.exe

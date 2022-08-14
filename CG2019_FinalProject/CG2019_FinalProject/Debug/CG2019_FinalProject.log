@@ -1,0 +1,34 @@
+﻿  CG2019_FinalProject.cpp
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\vec3.h(55): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\vec3.h(134): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\hitable_list.h(22): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\drand48.h(13): warning C4244: '正在初始化': 將 'unsigned __int64' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\camera.h(14): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\camera.h(27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\camera.h(45): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\material.h(21): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\material.h(39): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\material.h(96): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(18): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(30): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(31): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(31): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(42): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(43): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(43): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(44): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(46): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(47): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(47): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(51): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(51): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(54): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(61): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(62): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(78): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(79): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(80): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(81): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(83): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\source\repos\cg2019_finalproject\cg2019_finalproject\cg2019_finalproject.cpp(90): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  CG2019_FinalProject.vcxproj -> D:\user\source\repos\CG2019_FinalProject\Debug\CG2019_FinalProject.exe
